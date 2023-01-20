@@ -1,0 +1,26 @@
+.banner-img1{
+    background-image: url("/images/banner.png");
+    height: 584px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+}
+.banner-img2{
+    background-image: url("/images/wedding.png ");
+    height: 584px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+
+}
+.banner-img3{
+    background-image: url("/images/people.png ");
+    height: 584px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.banner-img4{
+
+}
